@@ -1,4 +1,4 @@
-### Hey, I'm MD FARVEZ 👋
+### Hey, I'm MD Farvez 👋
 
 <!--
 **mdfarvez/mdfarvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
