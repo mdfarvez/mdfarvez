@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png">][linkedin]
+[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png">][linkedin]
 
 <!-- links to your social media accounts -->
 
