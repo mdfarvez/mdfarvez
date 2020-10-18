@@ -4,13 +4,8 @@
 - 🌱 I’m currently learning React
 
 ### Connect with me:
-[![LinkedIn][1.1]][1]
-
-<!-- icons without padding -->
-
-[1.1]: https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png (LinkedIn icon without padding)
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png">][linkedin]
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/mdfarvez/
+[linkedin]: https://www.linkedin.com/in/mdfarvez/
