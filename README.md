@@ -1,7 +1,7 @@
 ### Hey 👋 I'm MD Farvez
 
 ## I'm a Developer!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning SAP Cloud Platform
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png">][linkedin]
