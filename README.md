@@ -1,7 +1,6 @@
 ### Hey 👋 I'm MD Farvez
 
-## I'm a Developer!
-- 🌱 I’m currently learning SAP Fiori
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/mdfarvez/mdfarvez/master/linkedin.png">][linkedin]
